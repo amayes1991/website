@@ -52,7 +52,7 @@ p{
   padding: 20px 0;
 }
 .contact-me{
-  line-height: 3;
+  line-height: 2;
   width: 40%;
   margin: 40px auto 60px;
 }
@@ -83,7 +83,7 @@ p{
   text-decoration: none;
 }
 .skill-row{
-  width: 50%;
+  width: 40%;
   margin: 100px auto 100px auto;
   text-align: left;
 }
@@ -120,12 +120,12 @@ p{
   font-size: 2.5rem
 }
 .code{
-  width: 25%;
+  width: 20%;
   float: left;
   margin-right: 30px;
 }
 .thinker{
-  width: 25%;
+  width: 20%;
   float: right;
   margin-left: 30px
 }
@@ -133,10 +133,3 @@ p{
   width: 300px;
   height: 300px;
 }
-
-/*.skill-description{
-  clear:left;
-}
-.thinker-description{
-  clear:right;
-}*/
